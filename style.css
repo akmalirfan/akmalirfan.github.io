@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+h1 {
+    color: #333;
+}
+div {
+    padding: 20px;
+}
+p {
+    color: #555;
+    font-size: 1.5rem;
+    max-width: 50rem;
+}
+.small {
+    font-size: 16pt;
+}
+a {
+    color: #005caa;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
